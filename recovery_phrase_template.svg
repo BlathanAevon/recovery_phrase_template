@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c_1"><path d="M0,0H909V1286H0Z"/></clipPath>
+<style type="text/css"><![CDATA[
+text { white-space: pre; }
+path, image { pointer-events: none; }
+
+.s0{
+font-size: 13.30px;
+font-family: DejaVuSans-Bold_a;
+fill: #000;
+}
+.s1{
+font-size: 8.86px;
+font-family: DejaVuSans_5;
+fill: #000;
+}
+
+.g0{
+fill: #AFABAB;
+}
+.g1{
+fill: none;
+stroke: #000;
+stroke-width: 1.1;
+stroke-linejoin: round;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none"/>
+<g clip-path="url(#c_1)">
+<path fill-rule="evenodd" d="M27.5 118.9H446.3V82.3H27.5v36.6Z" class="g0"/>
+<path fill-rule="evenodd" d="M455.6 118.9H874.7V82.3H455.6v36.6Z" class="g0"/>
+<path fill-rule="evenodd" d="M27.5 599.8H446.3V563.1H27.5v36.7Z" class="g0"/>
+<path fill-rule="evenodd" d="M455.6 599.8H874.7V563.1H455.6v36.7Z" class="g0"/>
+<path d="M26.9 82.4H447M27.4 81.9V558.3M446.4 81.9V558.3M455.2 82.4H875.3M455.7 81.9V558.3M874.7 81.9V558.3m0 -476.4V558.3M26.9 119H447m-210.1 -.5V558.3M455.2 119H875.3m-210.1 -.5V558.3M26.9 155.6H447m8.2 0H875.3M26.9 192.2H447m8.2 0H875.3M26.9 228.8H447m8.2 0H875.3M26.9 265.4H447m8.2 0H875.3M26.9 302H447m8.2 0H875.3M26.9 338.5H447m8.2 0H875.3M26.9 375.1H447m8.2 0H875.3M26.9 411.7H447m8.2 0H875.3M26.9 448.3H447m8.2 0H875.3M26.9 484.9H447m8.2 0H875.3M26.9 521.5H447m8.2 0H875.3M26.9 557.8H447m8.2 0H875.3M26.9 563.3H447M27.4 562.7v476.7m419 -476.7v476.7m8.8 -476.1H875.3m-419.6 -.6v476.7m419 -476.7v476.7m0 -476.7v476.7M26.9 599.8H447m-210.1 -.5v440.1M455.2 599.8H875.3m-210.1 -.5v440.1M26.9 636.4H447m8.2 0H875.3M26.9 673H447m8.2 0H875.3M26.9 709.6H447m8.2 0H875.3M26.9 746.2H447m8.2 0H875.3M26.9 782.8H447m8.2 0H875.3M26.9 819.4H447m8.2 0H875.3M26.9 855.9H447m8.2 0H875.3M26.9 892.5H447m8.2 0H875.3M26.9 929.1H447m8.2 0H875.3M26.9 965.7H447m8.2 0H875.3M26.9 1002.3H447M26.9 1038.9H447m8.2 -36.6H875.3m-420.1 36.6H875.3m-848.4 0H447m8.2 0H875.3" class="g1"/>
+<text x="185.3" y="105.4" dx="0,0,-.1,-.1,0,0,0,0,0,0,0" class="s0">SEED PHRASE </text>
+<text x="613.6" y="105.4" dx="0,0,-.1,-.1,0,0,0,0,0,0,0" class="s0">SEED PHRASE </text>
+<text x="229.8" y="140.4" class="s1">1 </text>
+<text x="433.7" y="140.4" class="s1">13 </text>
+<text x="658.2" y="140.4" class="s1">1 </text>
+<text x="862" y="140.4" class="s1">13 </text>
+<text x="229.8" y="176.9" class="s1">2 </text>
+<text x="433.7" y="176.9" class="s1">14 </text>
+<text x="658.2" y="176.9" class="s1">2 </text>
+<text x="862" y="176.9" class="s1">14 </text>
+<text x="229.8" y="213.6" class="s1">3 </text>
+<text x="433.7" y="213.6" class="s1">15 </text>
+<text x="658.2" y="213.6" class="s1">3 </text>
+<text x="862" y="213.6" class="s1">15 </text>
+<text x="229.8" y="250.1" class="s1">4 </text>
+<text x="433.7" y="250.1" class="s1">16 </text>
+<text x="658.2" y="250.1" class="s1">4 </text>
+<text x="862" y="250.1" class="s1">16 </text>
+<text x="229.8" y="286.8" class="s1">5 </text>
+<text x="433.7" y="286.8" class="s1">17 </text>
+<text x="658.2" y="286.8" class="s1">5 </text>
+<text x="862" y="286.8" class="s1">17 </text>
+<text x="229.8" y="323.3" class="s1">6 </text>
+<text x="433.7" y="323.3" class="s1">18 </text>
+<text x="658.2" y="323.3" class="s1">6 </text>
+<text x="862" y="323.3" class="s1">18 </text>
+<text x="229.8" y="360" class="s1">7 </text>
+<text x="433.7" y="360" class="s1">19 </text>
+<text x="658.2" y="360" class="s1">7 </text>
+<text x="862" y="360" class="s1">19 </text>
+<text x="229.8" y="396.5" class="s1">8 </text>
+<text x="433.7" y="396.5" class="s1">20 </text>
+<text x="658.2" y="396.5" class="s1">8 </text>
+<text x="862" y="396.5" class="s1">20 </text>
+<text x="229.8" y="433.1" class="s1">9 </text>
+<text x="433.7" y="433.1" class="s1">21 </text>
+<text x="658.2" y="433.1" class="s1">9 </text>
+<text x="862" y="433.1" class="s1">21 </text>
+<text x="224.1" y="469.6" class="s1">10 </text>
+<text x="433.7" y="469.6" class="s1">22 </text>
+<text x="652.5" y="469.6" class="s1">10 </text>
+<text x="862" y="469.6" class="s1">22 </text>
+<text x="224.1" y="506.3" class="s1">11 </text>
+<text x="433.7" y="506.3" class="s1">23 </text>
+<text x="652.5" y="506.3" class="s1">11 </text>
+<text x="862" y="506.3" class="s1">23 </text>
+<text x="224.1" y="542.7" class="s1">12 </text>
+<text x="433.7" y="542.7" class="s1">24 </text>
+<text x="652.5" y="542.7" class="s1">12 </text>
+<text x="862" y="542.7" class="s1">24 </text>
+<text x="185.3" y="586.2" dx="0,0,-.1,-.1,0,0,0,0,0,0,0" class="s0">SEED PHRASE </text>
+<text x="613.6" y="586.2" dx="0,0,-.1,-.1,0,0,0,0,0,0,0" class="s0">SEED PHRASE </text>
+<text x="229.8" y="621.2" class="s1">1 </text>
+<text x="433.7" y="621.2" class="s1">13 </text>
+<text x="658.2" y="621.2" class="s1">1 </text>
+<text x="862" y="621.2" class="s1">13 </text>
+<text x="229.8" y="657.9" class="s1">2 </text>
+<text x="433.7" y="657.9" class="s1">14 </text>
+<text x="658.2" y="657.9" class="s1">2 </text>
+<text x="862" y="657.9" class="s1">14 </text>
+<text x="229.8" y="694.4" class="s1">3 </text>
+<text x="433.7" y="694.4" class="s1">15 </text>
+<text x="658.2" y="694.4" class="s1">3 </text>
+<text x="862" y="694.4" class="s1">15 </text>
+<text x="229.8" y="731.1" class="s1">4 </text>
+<text x="433.7" y="731.1" class="s1">16 </text>
+<text x="658.2" y="731.1" class="s1">4 </text>
+<text x="862" y="731.1" class="s1">16 </text>
+<text x="229.8" y="767.6" class="s1">5 </text>
+<text x="433.7" y="767.6" class="s1">17 </text>
+<text x="658.2" y="767.6" class="s1">5 </text>
+<text x="862" y="767.6" class="s1">17 </text>
+<text x="229.8" y="804.1" class="s1">6 </text>
+<text x="433.7" y="804.1" class="s1">18 </text>
+<text x="658.2" y="804.1" class="s1">6 </text>
+<text x="862" y="804.1" class="s1">18 </text>
+<text x="229.8" y="840.7" class="s1">7 </text>
+<text x="433.7" y="840.7" class="s1">19 </text>
+<text x="658.2" y="840.7" class="s1">7 </text>
+<text x="862" y="840.7" class="s1">19 </text>
+<text x="229.8" y="877.3" class="s1">8 </text>
+<text x="433.7" y="877.3" class="s1">20 </text>
+<text x="658.2" y="877.3" class="s1">8 </text>
+<text x="862" y="877.3" class="s1">20 </text>
+<text x="229.8" y="913.9" class="s1">9 </text>
+<text x="433.7" y="913.9" class="s1">21 </text>
+<text x="658.2" y="913.9" class="s1">9 </text>
+<text x="862" y="913.9" class="s1">21 </text>
+<text x="224.1" y="950.4" class="s1">10 </text>
+<text x="433.7" y="950.4" class="s1">22 </text>
+<text x="652.5" y="950.4" class="s1">10 </text>
+<text x="862" y="950.4" class="s1">22 </text>
+<text x="224.1" y="987.1" class="s1">11 </text>
+<text x="433.7" y="987.1" class="s1">23 </text>
+<text x="652.5" y="987.1" class="s1">11 </text>
+<text x="862" y="987.1" class="s1">23 </text>
+<text x="224.1" y="1023.6" class="s1">12 </text>
+<text x="433.7" y="1023.6" class="s1">24 </text>
+<text x="652.5" y="1023.6" class="s1">12 </text>
+<text x="862" y="1023.6" class="s1">24 </text>
+
+</g>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: DejaVuSans-Bold_a;
+	src: url("fonts/DejaVuSans-Bold_a.woff") format("woff");
+}
+
+@font-face {
+	font-family: DejaVuSans_5;
+	src: url("fonts/DejaVuSans_5.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
